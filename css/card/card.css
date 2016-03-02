@@ -1,0 +1,50 @@
+.card{
+    position: relative;
+    top: 20px;
+    width:600px;
+    margin: 0 auto;
+    background-color: white;
+    overflow: hidden;
+    font-family: verdana;
+    text-align:center;
+}
+
+.card__img{
+    position: relative;
+    align:center;
+    width:280px;
+    margin: 20px;
+    left: 0;
+    top: 20px;
+
+}
+
+.card__title{
+    font: 40pt Georgia;
+    color: orange;
+    position:relative;
+    text-align:center;
+}
+
+.card__hr {
+    width: 20%;
+    position:relative;
+    align:center;
+    /*margin-top: 200px; /*поле сверху*/
+    background-color:#ff9900;
+    border:0px none;
+    height:2px;
+}
+
+.card__txt{
+    font: 12pt Verdana;
+    text-align:left;
+    margin-left: 30px;
+}
+
+.card__title2{
+    font: 14pt Verdana;
+    font-weight: bold;
+    color: orange;
+    text-align:center;
+}
