@@ -1,0 +1,21 @@
+#body{
+    background:#DDD4B6
+      }
+
+.bg{
+    position: fixed;
+    background-image: url(../../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    left:0;
+    top:0;
+}
+
+.bg__link{
+  position: fixed;
+  left: 20px;
+  top: 20px;
+}

@@ -1,0 +1,27 @@
+.Table{
+    position: relative;
+    width: 90%;
+    margin: 0px auto;
+    text-align: center;
+    font: 10pt verdana;
+    margin-bottom: 40px;
+    border-spacing: 4px;
+}
+
+.Table th{
+    padding: 20px;
+    background-color: #F3DFBA;
+    border: 5px;
+}
+.Table tr{
+    padding: 20px;
+    background-color: #FFF2D4;
+
+}
+.Table tr:hover{
+    background-color: #EFC6A0;
+    cursor: default;
+}
+.Table tr td{
+    padding: 10px 50px;
+}
