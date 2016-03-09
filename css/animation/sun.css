@@ -9,7 +9,7 @@
   /*background: orangered;*/
   border-radius: 50%;
   box-shadow: 0 0 20px orange;
-  animation: 15s infinite linear;
+  animation: 10s infinite linear;
   animation-name: move, sun-color;
   }
 
