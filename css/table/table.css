@@ -1,6 +1,8 @@
-.Table{
+.table{
     position: relative;
     width: 90%;
+    border:none;
+    border-radius: 10px;
     margin: 0px auto;
     text-align: center;
     font: 10pt verdana;
@@ -8,20 +10,25 @@
     border-spacing: 4px;
 }
 
-.Table th{
+.table th{
     padding: 20px;
     background-color: #F3DFBA;
     border: 5px;
 }
-.Table tr{
+
+.table tr{
     padding: 20px;
     background-color: #FFF2D4;
 
 }
-.Table tr:hover{
+.table tr:hover{
     background-color: #EFC6A0;
     cursor: default;
 }
-.Table tr td{
+.table tr td{
     padding: 10px 50px;
 }
+
+
+/*border:1px solid #CCCCCC;
+border-radius: 20px;
